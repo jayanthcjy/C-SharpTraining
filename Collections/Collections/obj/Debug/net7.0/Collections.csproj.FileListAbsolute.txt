@@ -1,0 +1,15 @@
+C:\Users\Jayanth C\source\repos\Collections\Collections\bin\Debug\net7.0\Collections.exe
+C:\Users\Jayanth C\source\repos\Collections\Collections\bin\Debug\net7.0\Collections.deps.json
+C:\Users\Jayanth C\source\repos\Collections\Collections\bin\Debug\net7.0\Collections.runtimeconfig.json
+C:\Users\Jayanth C\source\repos\Collections\Collections\bin\Debug\net7.0\Collections.dll
+C:\Users\Jayanth C\source\repos\Collections\Collections\bin\Debug\net7.0\Collections.pdb
+C:\Users\Jayanth C\source\repos\Collections\Collections\obj\Debug\net7.0\Collections.csproj.AssemblyReference.cache
+C:\Users\Jayanth C\source\repos\Collections\Collections\obj\Debug\net7.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jayanth C\source\repos\Collections\Collections\obj\Debug\net7.0\Collections.AssemblyInfoInputs.cache
+C:\Users\Jayanth C\source\repos\Collections\Collections\obj\Debug\net7.0\Collections.AssemblyInfo.cs
+C:\Users\Jayanth C\source\repos\Collections\Collections\obj\Debug\net7.0\Collections.csproj.CoreCompileInputs.cache
+C:\Users\Jayanth C\source\repos\Collections\Collections\obj\Debug\net7.0\Collections.dll
+C:\Users\Jayanth C\source\repos\Collections\Collections\obj\Debug\net7.0\refint\Collections.dll
+C:\Users\Jayanth C\source\repos\Collections\Collections\obj\Debug\net7.0\Collections.pdb
+C:\Users\Jayanth C\source\repos\Collections\Collections\obj\Debug\net7.0\Collections.genruntimeconfig.cache
+C:\Users\Jayanth C\source\repos\Collections\Collections\obj\Debug\net7.0\ref\Collections.dll

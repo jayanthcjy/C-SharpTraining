@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp5", "ConsoleApp5\ConsoleApp5.csproj", "{8867F5E8-3255-4890-ACAF-84F984EFAA52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DALayer", "DALayer\DALayer.csproj", "{9D26E2B1-8E06-4E53-AC2F-A6FCA601BBCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLLayer", "BLLayer\BLLayer.csproj", "{057982F0-16F1-4919-BB08-8286EB6C3BCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8867F5E8-3255-4890-ACAF-84F984EFAA52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8867F5E8-3255-4890-ACAF-84F984EFAA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8867F5E8-3255-4890-ACAF-84F984EFAA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8867F5E8-3255-4890-ACAF-84F984EFAA52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D26E2B1-8E06-4E53-AC2F-A6FCA601BBCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D26E2B1-8E06-4E53-AC2F-A6FCA601BBCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D26E2B1-8E06-4E53-AC2F-A6FCA601BBCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D26E2B1-8E06-4E53-AC2F-A6FCA601BBCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{057982F0-16F1-4919-BB08-8286EB6C3BCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{057982F0-16F1-4919-BB08-8286EB6C3BCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{057982F0-16F1-4919-BB08-8286EB6C3BCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{057982F0-16F1-4919-BB08-8286EB6C3BCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3927C84F-9507-44A2-98BD-D3D1F760E838}
+	EndGlobalSection
+EndGlobal

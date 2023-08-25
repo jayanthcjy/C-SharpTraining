@@ -1,0 +1,42 @@
+﻿@model DemoApplication.Models.StudentDetailsViewModel
+@inject DemoApplication.Services.ListClass Obj
+@{
+    ViewData["Title"] = "Home Page";
+}
+<style>
+    a {
+        padding: 5px;
+        margin: 5px;
+        color: white;
+    }
+
+    .main-div {
+        margin-bottom: 20px;
+        padding-bottom: 20px;
+    }
+</style>
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    @{
+        var obj = ViewData["obj"] as DemoApplication.Models.Student;
+        
+    }
+    <p>@Obj.ListColors</p>
+    <p>@Model.Student.Name</p>
+    <p>@Model.Student.Age</p>
+    <p>@Model.Title</p>
+    <p>@Model.Header</p>
+
+    <p>Hi</p>
+    
+
+    <div class="text-center main-div">
+        <h1 class="display-4">Welcome</h1>
+        <h3>View Component Example</h3>
+
+        @(await Component.InvokeAsync("SocialLinks", new { IconsToShow = 5 }))
+
+    </div>
+</div>

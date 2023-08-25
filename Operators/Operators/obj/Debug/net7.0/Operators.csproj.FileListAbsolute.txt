@@ -1,0 +1,15 @@
+C:\Users\Jayanth C\source\repos\Operators\Operators\bin\Debug\net7.0\Operators.exe
+C:\Users\Jayanth C\source\repos\Operators\Operators\bin\Debug\net7.0\Operators.deps.json
+C:\Users\Jayanth C\source\repos\Operators\Operators\bin\Debug\net7.0\Operators.runtimeconfig.json
+C:\Users\Jayanth C\source\repos\Operators\Operators\bin\Debug\net7.0\Operators.dll
+C:\Users\Jayanth C\source\repos\Operators\Operators\bin\Debug\net7.0\Operators.pdb
+C:\Users\Jayanth C\source\repos\Operators\Operators\obj\Debug\net7.0\Operators.csproj.AssemblyReference.cache
+C:\Users\Jayanth C\source\repos\Operators\Operators\obj\Debug\net7.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jayanth C\source\repos\Operators\Operators\obj\Debug\net7.0\Operators.AssemblyInfoInputs.cache
+C:\Users\Jayanth C\source\repos\Operators\Operators\obj\Debug\net7.0\Operators.AssemblyInfo.cs
+C:\Users\Jayanth C\source\repos\Operators\Operators\obj\Debug\net7.0\Operators.csproj.CoreCompileInputs.cache
+C:\Users\Jayanth C\source\repos\Operators\Operators\obj\Debug\net7.0\Operators.dll
+C:\Users\Jayanth C\source\repos\Operators\Operators\obj\Debug\net7.0\refint\Operators.dll
+C:\Users\Jayanth C\source\repos\Operators\Operators\obj\Debug\net7.0\Operators.pdb
+C:\Users\Jayanth C\source\repos\Operators\Operators\obj\Debug\net7.0\Operators.genruntimeconfig.cache
+C:\Users\Jayanth C\source\repos\Operators\Operators\obj\Debug\net7.0\ref\Operators.dll

@@ -1,0 +1,42 @@
+﻿@using DemoFoodApplication.Models 
+@inject Modell obj
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+<style>
+    .restaurant-card {
+        border: 1px solid #ccc;
+        padding: 20px;
+        margin-bottom: 20px;
+        background-color: #fff;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    .restaurant-card h3 {
+        margin-top: 10px;
+    }
+</style>
+
+<div class="container">
+    <h1>Welcome to Food Delivery App</h1>
+    <p>Order delicious food from your favorite local restaurants!</p>
+
+    <div class="restaurant-list">
+        <h2>Popular Restaurants</h2>
+        <div class="row">
+            
+            @foreach (var restaurant in obj.rest)
+            {
+                <div class="col-md-4">
+                    <div class="restaurant-card">
+                        <img src="@Url.Content("~/images/restaurant-placeholder.jpg")" alt="Restaurant Image" class="img-fluid">
+                        <h3>@restaurant.Name</h3>
+                        <p>Cuisine: @restaurant.Cuisine</p>
+                        <a href="@Url.Action("Menu", "Restaurant", new { id = restaurant.Id })" class="btn btn-primary">View Menu</a>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

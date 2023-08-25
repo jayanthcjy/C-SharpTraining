@@ -1,0 +1,8 @@
+C:\Users\Jayanth C\source\repos\Asyncronous\Asyncronous\bin\Debug\Asyncronous.exe.config
+C:\Users\Jayanth C\source\repos\Asyncronous\Asyncronous\bin\Debug\Asyncronous.exe
+C:\Users\Jayanth C\source\repos\Asyncronous\Asyncronous\bin\Debug\Asyncronous.pdb
+C:\Users\Jayanth C\source\repos\Asyncronous\Asyncronous\obj\Debug\Asyncronous.csproj.AssemblyReference.cache
+C:\Users\Jayanth C\source\repos\Asyncronous\Asyncronous\obj\Debug\Asyncronous.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jayanth C\source\repos\Asyncronous\Asyncronous\obj\Debug\Asyncronous.csproj.CoreCompileInputs.cache
+C:\Users\Jayanth C\source\repos\Asyncronous\Asyncronous\obj\Debug\Asyncronous.exe
+C:\Users\Jayanth C\source\repos\Asyncronous\Asyncronous\obj\Debug\Asyncronous.pdb

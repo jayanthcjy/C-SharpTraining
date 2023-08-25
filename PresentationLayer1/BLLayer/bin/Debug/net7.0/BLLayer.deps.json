@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BLLayer/1.0.0": {
+        "dependencies": {
+          "DALayer": "1.0.0"
+        },
+        "runtime": {
+          "BLLayer.dll": {}
+        }
+      },
+      "DALayer/1.0.0": {
+        "runtime": {
+          "DALayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BLLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DALayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Jayanth C\source\repos\PresentationLayer1\BLLayer\bin\Debug\net7.0\BLLayer.deps.json
+C:\Users\Jayanth C\source\repos\PresentationLayer1\BLLayer\bin\Debug\net7.0\BLLayer.dll
+C:\Users\Jayanth C\source\repos\PresentationLayer1\BLLayer\bin\Debug\net7.0\BLLayer.pdb
+C:\Users\Jayanth C\source\repos\PresentationLayer1\BLLayer\bin\Debug\net7.0\DALayer.dll
+C:\Users\Jayanth C\source\repos\PresentationLayer1\BLLayer\bin\Debug\net7.0\DALayer.pdb
+C:\Users\Jayanth C\source\repos\PresentationLayer1\BLLayer\obj\Debug\net7.0\BLLayer.csproj.AssemblyReference.cache
+C:\Users\Jayanth C\source\repos\PresentationLayer1\BLLayer\obj\Debug\net7.0\BLLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jayanth C\source\repos\PresentationLayer1\BLLayer\obj\Debug\net7.0\BLLayer.AssemblyInfoInputs.cache
+C:\Users\Jayanth C\source\repos\PresentationLayer1\BLLayer\obj\Debug\net7.0\BLLayer.AssemblyInfo.cs
+C:\Users\Jayanth C\source\repos\PresentationLayer1\BLLayer\obj\Debug\net7.0\BLLayer.csproj.CoreCompileInputs.cache
+C:\Users\Jayanth C\source\repos\PresentationLayer1\BLLayer\obj\Debug\net7.0\BLLayer.csproj.CopyComplete
+C:\Users\Jayanth C\source\repos\PresentationLayer1\BLLayer\obj\Debug\net7.0\BLLayer.dll
+C:\Users\Jayanth C\source\repos\PresentationLayer1\BLLayer\obj\Debug\net7.0\refint\BLLayer.dll
+C:\Users\Jayanth C\source\repos\PresentationLayer1\BLLayer\obj\Debug\net7.0\BLLayer.pdb
+C:\Users\Jayanth C\source\repos\PresentationLayer1\BLLayer\obj\Debug\net7.0\ref\BLLayer.dll

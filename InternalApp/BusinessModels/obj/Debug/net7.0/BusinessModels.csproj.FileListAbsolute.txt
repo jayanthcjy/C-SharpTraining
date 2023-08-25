@@ -1,0 +1,12 @@
+C:\Users\Jayanth C\source\repos\InternalApp\BusinessModels\bin\Debug\net7.0\BusinessModels.deps.json
+C:\Users\Jayanth C\source\repos\InternalApp\BusinessModels\bin\Debug\net7.0\BusinessModels.dll
+C:\Users\Jayanth C\source\repos\InternalApp\BusinessModels\bin\Debug\net7.0\BusinessModels.pdb
+C:\Users\Jayanth C\source\repos\InternalApp\BusinessModels\obj\Debug\net7.0\BusinessModels.csproj.AssemblyReference.cache
+C:\Users\Jayanth C\source\repos\InternalApp\BusinessModels\obj\Debug\net7.0\BusinessModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jayanth C\source\repos\InternalApp\BusinessModels\obj\Debug\net7.0\BusinessModels.AssemblyInfoInputs.cache
+C:\Users\Jayanth C\source\repos\InternalApp\BusinessModels\obj\Debug\net7.0\BusinessModels.AssemblyInfo.cs
+C:\Users\Jayanth C\source\repos\InternalApp\BusinessModels\obj\Debug\net7.0\BusinessModels.csproj.CoreCompileInputs.cache
+C:\Users\Jayanth C\source\repos\InternalApp\BusinessModels\obj\Debug\net7.0\BusinessModels.dll
+C:\Users\Jayanth C\source\repos\InternalApp\BusinessModels\obj\Debug\net7.0\refint\BusinessModels.dll
+C:\Users\Jayanth C\source\repos\InternalApp\BusinessModels\obj\Debug\net7.0\BusinessModels.pdb
+C:\Users\Jayanth C\source\repos\InternalApp\BusinessModels\obj\Debug\net7.0\ref\BusinessModels.dll

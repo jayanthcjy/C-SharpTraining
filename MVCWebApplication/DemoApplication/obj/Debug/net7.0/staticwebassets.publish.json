@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "Hash": "7fVOiXwV9X/al/TvFIiEJIS9dyyVnyrUaQiMB+Dk2jM=",
+  "Source": "DemoApplication",
+  "BasePath": "_content/DemoApplication",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Jayanth C\\source\\repos\\MVCWebApplication\\DemoApplication\\obj\\Debug\\net7.0\\scopedcss\\bundle\\DemoApplication.styles.css",
+      "SourceId": "DemoApplication",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Jayanth C\\source\\repos\\MVCWebApplication\\DemoApplication\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/DemoApplication",
+      "RelativePath": "DemoApplication.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Jayanth C\\source\\repos\\MVCWebApplication\\DemoApplication\\obj\\Debug\\net7.0\\scopedcss\\bundle\\DemoApplication.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Jayanth C\\source\\repos\\MVCWebApplication\\DemoApplication\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DemoApplication.bundle.scp.css",
+      "SourceId": "DemoApplication",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Jayanth C\\source\\repos\\MVCWebApplication\\DemoApplication\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/DemoApplication",
+      "RelativePath": "DemoApplication.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Jayanth C\\source\\repos\\MVCWebApplication\\DemoApplication\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DemoApplication.bundle.scp.css"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\Jayanth C\source\repos\PresentationLayer1\Dependence\bin\Debug\net7.0\Dependence.deps.json
+C:\Users\Jayanth C\source\repos\PresentationLayer1\Dependence\bin\Debug\net7.0\Dependence.dll
+C:\Users\Jayanth C\source\repos\PresentationLayer1\Dependence\bin\Debug\net7.0\Dependence.pdb
+C:\Users\Jayanth C\source\repos\PresentationLayer1\Dependence\obj\Debug\net7.0\Dependence.csproj.AssemblyReference.cache
+C:\Users\Jayanth C\source\repos\PresentationLayer1\Dependence\obj\Debug\net7.0\Dependence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jayanth C\source\repos\PresentationLayer1\Dependence\obj\Debug\net7.0\Dependence.AssemblyInfoInputs.cache
+C:\Users\Jayanth C\source\repos\PresentationLayer1\Dependence\obj\Debug\net7.0\Dependence.AssemblyInfo.cs
+C:\Users\Jayanth C\source\repos\PresentationLayer1\Dependence\obj\Debug\net7.0\Dependence.csproj.CoreCompileInputs.cache
+C:\Users\Jayanth C\source\repos\PresentationLayer1\Dependence\obj\Debug\net7.0\Dependence.dll
+C:\Users\Jayanth C\source\repos\PresentationLayer1\Dependence\obj\Debug\net7.0\refint\Dependence.dll
+C:\Users\Jayanth C\source\repos\PresentationLayer1\Dependence\obj\Debug\net7.0\Dependence.pdb
+C:\Users\Jayanth C\source\repos\PresentationLayer1\Dependence\obj\Debug\net7.0\ref\Dependence.dll

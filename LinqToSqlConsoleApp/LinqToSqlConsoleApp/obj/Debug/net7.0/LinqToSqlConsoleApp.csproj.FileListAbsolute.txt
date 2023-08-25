@@ -1,0 +1,5 @@
+C:\Users\Jayanth C\source\repos\LinqToSqlConsoleApp\LinqToSqlConsoleApp\obj\Debug\net7.0\LinqToSqlConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Jayanth C\source\repos\LinqToSqlConsoleApp\LinqToSqlConsoleApp\obj\Debug\net7.0\LinqToSqlConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jayanth C\source\repos\LinqToSqlConsoleApp\LinqToSqlConsoleApp\obj\Debug\net7.0\LinqToSqlConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Jayanth C\source\repos\LinqToSqlConsoleApp\LinqToSqlConsoleApp\obj\Debug\net7.0\LinqToSqlConsoleApp.AssemblyInfo.cs
+C:\Users\Jayanth C\source\repos\LinqToSqlConsoleApp\LinqToSqlConsoleApp\obj\Debug\net7.0\LinqToSqlConsoleApp.csproj.CoreCompileInputs.cache

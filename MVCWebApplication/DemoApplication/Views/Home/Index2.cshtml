@@ -1,0 +1,75 @@
+﻿@model DemoApplication.Models.StudentDetailsViewModel
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login Form</title>
+    <style>
+        .error {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <form id="loginForm" action="/login" method="post" onsubmit="return validateForm()">
+        <div>
+            <label for="username">Username:</label>
+            <input type="text" id="username" name="username" required>
+            <span id="usernameError" class="error"></span>
+        </div>
+        <div>
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" required>
+            <span id="passwordError" class="error"></span>
+        </div>
+        <div>
+            <button type="submit" id="submitButton">Login</button>
+        </div>
+    </form>
+    @section Scripts {
+        <script>
+            document.getElementById("submitButton").@Url.Action("Index");
+            });
+        </script>
+    }
+
+    <script>
+        const usernameInput = document.getElementById("username");
+        const passwordInput = document.getElementById("password");
+        const usernameError = document.getElementById("usernameError");
+        const passwordError = document.getElementById("passwordError");
+        const submitButton = document.getElementById("submitButton");
+
+        function validateUsername() {
+            const username = usernameInput.value.trim();
+            if (username === "") {
+                usernameError.textContent = "Please enter a username.";
+            } else {
+                usernameError.textContent = "";
+            }
+        }
+
+        function validatePassword() {
+            const password = passwordInput.value.trim();
+            if (password === "") {
+                passwordError.textContent = "Please enter a password.";
+            } else {
+                passwordError.textContent = "";
+            }
+        }
+
+        // function updateSubmitButtonState() {
+        //     submitButton.disabled = false;
+        // }
+
+        
+        // Add blur event listeners to trigger validation when leaving a field
+        usernameInput.addEventListener("blur", validateUsername);
+       // usernameInput.addEventListener("input", updateSubmitButtonState);
+
+        passwordInput.addEventListener("blur", validatePassword);
+        //passwordInput.addEventListener("input", updateSubmitButtonState);
+
+    </script>
+</body>
+</html>

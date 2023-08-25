@@ -1,0 +1,4 @@
+﻿1.The both the inputs should be positive  "Positive"
+2.Both the inputs should be float numbers "Positive"
+3.One input is integer and onther is float "Negative"
+4.If the inputs are negative numbers      "Negative"

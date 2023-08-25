@@ -1,0 +1,15 @@
+C:\Users\Jayanth C\source\repos\first\first\bin\Debug\net6.0\first.exe
+C:\Users\Jayanth C\source\repos\first\first\bin\Debug\net6.0\first.deps.json
+C:\Users\Jayanth C\source\repos\first\first\bin\Debug\net6.0\first.runtimeconfig.json
+C:\Users\Jayanth C\source\repos\first\first\bin\Debug\net6.0\first.dll
+C:\Users\Jayanth C\source\repos\first\first\bin\Debug\net6.0\first.pdb
+C:\Users\Jayanth C\source\repos\first\first\obj\Debug\net6.0\first.csproj.AssemblyReference.cache
+C:\Users\Jayanth C\source\repos\first\first\obj\Debug\net6.0\first.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jayanth C\source\repos\first\first\obj\Debug\net6.0\first.AssemblyInfoInputs.cache
+C:\Users\Jayanth C\source\repos\first\first\obj\Debug\net6.0\first.AssemblyInfo.cs
+C:\Users\Jayanth C\source\repos\first\first\obj\Debug\net6.0\first.csproj.CoreCompileInputs.cache
+C:\Users\Jayanth C\source\repos\first\first\obj\Debug\net6.0\first.dll
+C:\Users\Jayanth C\source\repos\first\first\obj\Debug\net6.0\refint\first.dll
+C:\Users\Jayanth C\source\repos\first\first\obj\Debug\net6.0\first.pdb
+C:\Users\Jayanth C\source\repos\first\first\obj\Debug\net6.0\first.genruntimeconfig.cache
+C:\Users\Jayanth C\source\repos\first\first\obj\Debug\net6.0\ref\first.dll

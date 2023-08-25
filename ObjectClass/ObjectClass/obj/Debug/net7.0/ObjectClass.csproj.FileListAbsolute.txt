@@ -1,0 +1,15 @@
+C:\Users\Jayanth C\source\repos\ObjectClass\ObjectClass\bin\Debug\net7.0\ObjectClass.exe
+C:\Users\Jayanth C\source\repos\ObjectClass\ObjectClass\bin\Debug\net7.0\ObjectClass.deps.json
+C:\Users\Jayanth C\source\repos\ObjectClass\ObjectClass\bin\Debug\net7.0\ObjectClass.runtimeconfig.json
+C:\Users\Jayanth C\source\repos\ObjectClass\ObjectClass\bin\Debug\net7.0\ObjectClass.dll
+C:\Users\Jayanth C\source\repos\ObjectClass\ObjectClass\bin\Debug\net7.0\ObjectClass.pdb
+C:\Users\Jayanth C\source\repos\ObjectClass\ObjectClass\obj\Debug\net7.0\ObjectClass.csproj.AssemblyReference.cache
+C:\Users\Jayanth C\source\repos\ObjectClass\ObjectClass\obj\Debug\net7.0\ObjectClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jayanth C\source\repos\ObjectClass\ObjectClass\obj\Debug\net7.0\ObjectClass.AssemblyInfoInputs.cache
+C:\Users\Jayanth C\source\repos\ObjectClass\ObjectClass\obj\Debug\net7.0\ObjectClass.AssemblyInfo.cs
+C:\Users\Jayanth C\source\repos\ObjectClass\ObjectClass\obj\Debug\net7.0\ObjectClass.csproj.CoreCompileInputs.cache
+C:\Users\Jayanth C\source\repos\ObjectClass\ObjectClass\obj\Debug\net7.0\ObjectClass.dll
+C:\Users\Jayanth C\source\repos\ObjectClass\ObjectClass\obj\Debug\net7.0\refint\ObjectClass.dll
+C:\Users\Jayanth C\source\repos\ObjectClass\ObjectClass\obj\Debug\net7.0\ObjectClass.pdb
+C:\Users\Jayanth C\source\repos\ObjectClass\ObjectClass\obj\Debug\net7.0\ObjectClass.genruntimeconfig.cache
+C:\Users\Jayanth C\source\repos\ObjectClass\ObjectClass\obj\Debug\net7.0\ref\ObjectClass.dll
